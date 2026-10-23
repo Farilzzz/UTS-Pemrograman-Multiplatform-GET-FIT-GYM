@@ -1,0 +1,74 @@
+# Flutter / generated output
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/build/
+coverage/
+**/ephemeral/
+**/.gradle/
+**/.kotlin/
+**/Pods/
+**/.symlinks/
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/Flutter/GeneratedPluginRegistrant.*
+**/Runner/GeneratedPluginRegistrant.*
+# Local environment / credentials
+**/local.properties
+**/key.properties
+**/google-services.json
+**/GoogleService-Info.plist
+firebase.json
+.firebaserc
+firestore.rules
+config/
+.env
+.env.*
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+# Private automation / evidence / reports
+*.py
+*.pyc
+__pycache__/
+.venv/
+venv/
+qa_evidence/
+bukti_pengujian/
+backups/
+archive/
+*.zip
+*.log
+*.tmp
+*.bak
+*.docx
+*.pdf
+*.db
+*.sqlite
+*.sqlite3
+*.apk
+*.aab
+# Platform templates not validated for this submission
+/web/
+/windows/
+/linux/
+/macos/
+# Android generated variants
+!android/gradlew
+!android/gradlew.bat
+!android/gradle/wrapper/gradle-wrapper.jar
+
+android/app/debug/
+android/app/profile/
+android/app/release/
